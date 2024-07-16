@@ -5,6 +5,7 @@
         <content
             <Button text = "open"> </Button>
             <Button text = "close"> </Button>
+            <Button  text = "dev"></Button>
          />
     </Page>
 </mvc:View>
