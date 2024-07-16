@@ -1,12 +1,19 @@
-<mvc:View controllerName="com.angel.projectangel.controller.View1"
+<mvc:View xmlns:form="sap.ui.layout.form" controllerName="com.angel.projectangel.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content
-            <Button text = "open"> </Button>
+          
             <Button text = "close"> </Button>
+<<<<<<< HEAD
             <Button  text = "dev"></Button>
             <Page ></Page>
+=======
+            <Button  text = "dev"> </Button>
+            <Button  text = "open"> </Button>
+            <form:Form ></form:Form>
+            <ColumnListItem ></ColumnListItem>
+>>>>>>> origin/main
          />
     </Page>
 </mvc:View>
