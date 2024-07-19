@@ -7,8 +7,14 @@
             <Button text = "close"></Button>
             <Button  text = "dev"></Button>
             <Button  text = "open"></Button>
+            <Button text = "close"> </Button>
+            <Button  text = "dev"></Button>
+            <Page ></Page>
+            <Button  text = "dev"> </Button>
+            <Button  text = "open"> </Button>
             <form:Form ></form:Form>
             <ColumnListItem ></ColumnListItem>
+            
          />
     </Page>
 </mvc:View>
