@@ -5,15 +5,13 @@
         <content
           
             <Button text = "close"> </Button>
-<<<<<<< HEAD
             <Button  text = "dev"></Button>
             <Page ></Page>
-=======
             <Button  text = "dev"> </Button>
             <Button  text = "open"> </Button>
             <form:Form ></form:Form>
             <ColumnListItem ></ColumnListItem>
->>>>>>> origin/main
+            
          />
     </Page>
 </mvc:View>
